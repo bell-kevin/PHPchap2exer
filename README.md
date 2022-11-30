@@ -4,6 +4,8 @@ Read Chapter 2 of your textbook, completing each exercise.  PHP and MySQL for Dy
 
 The form.html file can be found in the textbook downloads, which will save you some time typing as you start this chapter.
 
+![p](https://github.com/bell-kevin/PHPchap2exer/blob/main/chap2exer/form.PNG)
+
 Submission: Please take and submit .png screenshots showing your working code running in a browser for 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, and 2.9. Make sure to name the screenshots so that it is clear which exercise you completed in each picture. 
 
 ![1](https://github.com/bell-kevin/PHPchap2exer/blob/main/chap2exer/2.2%20formFeedback.PNG)
