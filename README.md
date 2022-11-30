@@ -1,6 +1,6 @@
 # PHPchap2exer
 
-Read Chapter 2 of your textbook, completing each exercise.  
+Read Chapter 2 of your textbook, completing each exercise.  PHP and MySQL for Dynamic Web Sites Fifth Edition by Larry Ullman
 
 The form.html file can be found in the textbook downloads, which will save you some time typing as you start this chapter.
 
